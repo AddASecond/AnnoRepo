@@ -133,3 +133,8 @@ a collection of repositories for image scrapy/crawl/annotations/augmentations/un
         <td>liner combination</td>
     </tr>
 </table>
+
+
+#deduplication
+see my other repo:
+https://github.com/AddASecond/imgdedup_collection
