@@ -38,4 +38,9 @@ classical repos
         <td>an image annotation package for javascript using canvas</td>
         <td>hotspot on images</td>
     </tr>
+    <tr>
+        <td>https://github.com/VashishtMadhavan/LabelingTool</td>
+        <td>Web-Based Segmentation Interface</td>
+        <td>web style "LabelMe"</td>
+    </tr>
 </table>
