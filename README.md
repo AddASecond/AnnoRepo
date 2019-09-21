@@ -28,4 +28,9 @@ classical repos
         <td>crx extension for annotation</td>
         <td>fun</td>
     </tr>
+    <tr>
+        <td>https://github.com/apennisi/eventannotationtool</td>
+        <td>The Event Annotation Tool (EAT) is an instrument for annotating normal and abnormal events in videos and images.</td>
+        <td>useful</td>
+    </tr>
 </table>
