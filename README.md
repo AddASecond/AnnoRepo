@@ -1,7 +1,7 @@
-# AnnoRepo
-a collection of repositories for annotations/augmentations
+# ImageObtain&PreprocessingPipelineRepo
+a collection of repositories for image scrapy/crawl/annotations/augmentations
 
-classical repos
+# annotation repos
 <table>
     <tr>
         <td>repo</td>
@@ -47,6 +47,18 @@ classical repos
         <td>https://github.com/erikdahlstrand/redraw</td>
         <td>Redraw is a JavaScript library which provides basic image annotation tools in your browser.</td>
         <td>js, simple</td>
+    </tr>
+</table>
+
+
+
+
+# augmentation repos
+<table>
+    <tr>
+        <td>repo</td>
+        <td>functions</td>
+        <td>comments</td>
     </tr>
     <tr>
         <td>https://github.com/albu/albumentations</td>
