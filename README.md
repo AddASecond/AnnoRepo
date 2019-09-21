@@ -1,5 +1,5 @@
 # AnnoRepo
-a collection of repositories for annotations
+a collection of repositories for annotations/augmentations
 
 classical repos
 <table>
@@ -42,5 +42,15 @@ classical repos
         <td>https://github.com/VashishtMadhavan/LabelingTool</td>
         <td>Web-Based Segmentation Interface</td>
         <td>web style "LabelMe"</td>
+    </tr>
+    <tr>
+        <td>https://github.com/erikdahlstrand/redraw</td>
+        <td>Redraw is a JavaScript library which provides basic image annotation tools in your browser.</td>
+        <td>js, simple</td>
+    </tr>
+    <tr>
+        <td>https://github.com/albu/albumentations</td>
+        <td>fast image augmentation library and easy to use wrapper around other libraries</td>
+        <td>image augmentation!!!</td>
     </tr>
 </table>
