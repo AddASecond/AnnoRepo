@@ -34,6 +34,11 @@ a collection of repositories for image scrapy/crawl/annotations/augmentations/un
         <td>Python Script for 'searching' and 'downloading' hundreds of Google images to the local hard disk!</td>
         <td>good if you only need google images</td>
     </tr>
+    <tr>
+        <td>https://github.com/luyishisi/Anti-Anti-Spider</td>
+        <td>crawl with anti apider!</td>
+        <td>useful for website with anti spider</td>
+    </tr>
 </table>
 
 
