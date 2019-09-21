@@ -140,6 +140,9 @@ a collection of repositories for image scrapy/crawl/annotations/augmentations/un
 </table>
 
 
-# deduplication
+# image deduplication
 see my other repo:
 https://github.com/AddASecond/imgdedup_collection
+
+# image enhance
+https://github.com/stephenyan1231/dl-image-enhance
