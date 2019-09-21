@@ -10,6 +10,11 @@ a collection of repositories for image scrapy/crawl/annotations/augmentations/un
         <td>comments</td>
     </tr>
     <tr>
+        <td>https://github.com/ptklx/faceManagelib</td>
+        <td>Annotation tool use dlib and mtcnn</td>
+        <td>auto-anno</td>
+    </tr>
+    <tr>
         <td>https://github.com/donquixote1984/scrapy_image_crawler</td>
         <td>crawl image and monitor</td>
         <td>under estimization</td>
