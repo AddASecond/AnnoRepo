@@ -10,9 +10,9 @@ a collection of repositories for image scrapy/crawl/annotations/augmentations/un
         <td>comments</td>
     </tr>
     <tr>
-        <td>https://github.com/ptklx/faceManagelib</td>
-        <td>Annotation tool use dlib and mtcnn</td>
-        <td>auto-anno</td>
+        <td>https://github.com/blurrye/sogoupic</td>
+        <td>scrapy,mongodb</td>
+        <td>good if you use sogou search engine</td>
     </tr>
     <tr>
         <td>https://github.com/donquixote1984/scrapy_image_crawler</td>
@@ -53,6 +53,11 @@ a collection of repositories for image scrapy/crawl/annotations/augmentations/un
         <td>repo</td>
         <td>functions</td>
         <td>comments</td>
+    </tr>
+    <tr>
+        <td>https://github.com/ptklx/faceManagelib</td>
+        <td>Annotation tool use dlib and mtcnn</td>
+        <td>auto-anno</td>
     </tr>
     <tr>
         <td>https://github.com/openannotation/annotator</td>
