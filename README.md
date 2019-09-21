@@ -33,4 +33,9 @@ classical repos
         <td>The Event Annotation Tool (EAT) is an instrument for annotating normal and abnormal events in videos and images.</td>
         <td>useful</td>
     </tr>
+    <tr>
+        <td>https://github.com/piedoom/jnote</td>
+        <td>an image annotation package for javascript using canvas</td>
+        <td>hotspot on images</td>
+    </tr>
 </table>
